@@ -27,6 +27,7 @@ footer{
 
 h1.titulo{
 	font-family: FuenteLato;
+	font-variant: small-caps;
 	background-color: aliceblue;
 	text-align: center;
 	padding: 10px;
