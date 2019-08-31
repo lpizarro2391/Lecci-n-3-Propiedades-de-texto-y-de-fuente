@@ -14,6 +14,7 @@ body{
 }
 
 #menu-principal{
+	font-family: FuenteLato;
 	padding: 10px 0px;
 }
 
@@ -24,6 +25,7 @@ footer{
 }
 
 h1.titulo{
+	font-family: FuenteLato;
 	background-color: aliceblue;
 	text-align: center;
 	padding: 10px;
